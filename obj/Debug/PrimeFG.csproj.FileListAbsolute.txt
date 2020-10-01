@@ -1,0 +1,7 @@
+C:\Programozás\C#\PrimeFG\bin\Debug\PrimeFG.exe.config
+C:\Programozás\C#\PrimeFG\bin\Debug\PrimeFG.exe
+C:\Programozás\C#\PrimeFG\bin\Debug\PrimeFG.pdb
+C:\Programozás\C#\PrimeFG\obj\Debug\PrimeFG.csprojAssemblyReference.cache
+C:\Programozás\C#\PrimeFG\obj\Debug\PrimeFG.csproj.CoreCompileInputs.cache
+C:\Programozás\C#\PrimeFG\obj\Debug\PrimeFG.exe
+C:\Programozás\C#\PrimeFG\obj\Debug\PrimeFG.pdb
